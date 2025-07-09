@@ -90,7 +90,7 @@ npm start
 The React app will open at http://localhost:3000
 
 ## Usage:
-Usage
+
 1. Open the frontend URL in your browser.
 2. Toggle between Sign Up and Sign In using the buttons.
 3. Register a new user on Sign Up form.
